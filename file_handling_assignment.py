@@ -9,7 +9,7 @@ Is your girlfriend not answering the calls again?
 Don't worry, just give her some time, and for sure, she will rethink about your reunion.
 
 Otherwise, reach us via +25411548341 if in need of any assistance. We are there for you, any time, any day, just right there.
-Goodbye."""
+Goodby."""
         )
     print("File 'my_file.txt' has been created successfully.")
 
